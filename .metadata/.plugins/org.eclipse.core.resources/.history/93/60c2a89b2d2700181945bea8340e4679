@@ -1,0 +1,13 @@
+package defaultPackage;
+
+
+public class Testclass {
+
+	public static void main(String[] args) {
+		for (int i = 0; i < args.length; i++) {
+			String string = args[i];
+			System.err.println(string);
+		}
+	}
+
+}

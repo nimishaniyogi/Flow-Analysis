@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="soot.jimple.internal.JInstanceFieldRef"/>
+<fullyQualifiedTypeName name="defaultPackage.Testclass"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="soot.jimple.ArrayRef"/>
+<fullyQualifiedTypeName name="soot.jimple.internal.JAssignStmt"/>
+<fullyQualifiedTypeName name="soot.jimple.InstanceFieldRef"/>
+<fullyQualifiedTypeName name="soot.jimple.StaticFieldRef"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+#Sun Feb 25 20:34:02 CST 2018
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=graphical editing framework
